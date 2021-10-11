@@ -1,0 +1,351 @@
+,Address,Sold,Sold Date,Bed,Bath,Size,Lot Size,HOA,Year Build,Type
+1,"62 Shaniko Cmn,Fremont, CA 94539","$800,000","OCT 1, 2021",3,2,"1,150",0,$310,1987,Condo/Co-op
+2,"45552 Cheyenne Pl,Fremont, CA 94539","$1,880,000","OCT 1, 2021",4,2,"1,531","6,300 Sq. Ft.",0,1969,Single Family Residential
+3,"1201 Valdez Way,FREMONT, CA 94539","$1,800,000","OCT 1, 2021",3,2,"1,956","6,600 Sq. Ft.",0,1971,Single Family Residential
+4,"39762 Blacow Rd,Fremont, CA 94538","$1,150,000","OCT 1, 2021",3,2,"1,585","6,400 Sq. Ft.",0,1961,Single Family Residential
+5,"4405 Calypso Ter,Fremont, CA 94555","$1,530,000","OCT 1, 2021",4,2.5,"1,811","5,202 Sq. Ft.",$50,1992,Single Family Residential
+6,"35211 Santiago St,Fremont, CA 94536","$1,430,000","OCT 1, 2021",3,2,"1,256","5,700 Sq. Ft.",0,1965,Single Family Residential
+7,"47562 Minaret Falls Ter,Fremont, CA 94539","$1,669,990","SEP 30, 2021",3,3.5,"2,260","3,544 Sq. Ft.",$288,—,Vacant Land
+8,"168 Staircase Falls Cmn,Fremont, CA 94539","$1,629,990","SEP 30, 2021",3,3.5,"2,029","3,375 Sq. Ft.",$288,—,Vacant Land
+9,"196 Carson Falls Ter,Fremont, CA 94539","$800,000","SEP 30, 2021",2,2.5,"1,496",0,$500,—,Multi-Family (2-4 Unit)
+10,"38781 Stonington Ter,FREMONT, CA 94536","$1,156,000","SEP 30, 2021",2,2,"1,001","3,385 Sq. Ft.",$88,1987,Single Family Residential
+11,"2401 Corriea Way,FREMONT, CA 94539","$1,484,000","SEP 30, 2021",3,2,"1,386","3,984 Sq. Ft.",$40,1972,Single Family Residential
+12,"2500 Tassajara Ter,Fremont, CA 94538","$1,155,000","SEP 30, 2021",3,3,"1,712","1,616 Sq. Ft.",$149,2014,Single Family Residential
+13,"35451 Cabrillo Dr,Fremont, CA 94551","$1,461,000","SEP 30, 2021",3,2,"1,387","6,000 Sq. Ft.",0,1967,Single Family Residential
+14,"5157 Waller Ave,Fremont, CA 94536","$1,500,000","SEP 30, 2021",3,2,"1,384","7,000 Sq. Ft.",$21,1962,Single Family Residential
+15,"1750 Radiance Cmn Unit 301 F9,Fremont, CA 94539","$1,379,995","SEP 29, 2021",3,2.5,"1,847",0,$570,—,Condo/Co-op
+16,"701 Boar Cir,Fremont, CA 94539","$2,890,000","SEP 29, 2021",5,3,"2,743","10,400 Sq. Ft.",$85,1990,Single Family Residential
+17,"4649 Victoria Park Ct,FREMONT, CA 94538","$1,600,000","SEP 29, 2021",4,3,"2,122","7,332 Sq. Ft.",0,1965,Single Family Residential
+18,"38775 Crane Ter,FREMONT, CA 94536","$1,020,000","SEP 29, 2021",3,2.5,"1,438",1 Acre,$365,1985,Townhouse
+19,"40829 Raduno Ter,FREMONT, CA 94538","$1,199,888","SEP 29, 2021",3,3.5,"1,824","1,302 Sq. Ft.",$392,—,Single Family Residential
+20,"4159 Converse St,Fremont, CA 94538","$1,350,000","SEP 28, 2021",3,2,"1,092","6,903 Sq. Ft.",0,1956,Single Family Residential
+21,"35971 Bronze St,Union City, CA 94587","$1,915,000","SEP 28, 2021",5,3,"3,162","7,089 Sq. Ft.",0,2005,Single Family Residential
+22,"4896 Omar St,FREMONT, CA 94538","$1,405,000","SEP 27, 2021",3,2,"1,347","6,100 Sq. Ft.",0,1962,Single Family Residential
+23,"34924 Belvedere Ter,FREMONT, CA 94555","$1,020,000","SEP 27, 2021",3,2.5,"1,555","3,080 Sq. Ft.",$220,1985,Townhouse
+24,"40200 Antigua Rose Ter,FREMONT, CA 94538","$1,375,000","SEP 24, 2021",4,4.5,"1,917","2,127 Sq. Ft.",$121,2008,Townhouse
+25,"3695 Stevenson Blvd Unit E307,Fremont, CA 94538","$675,000","SEP 24, 2021",2,2,"1,040",0,$370,1991,Condo/Co-op
+26,"5376 Brophy Dr,Fremont, CA 94536","$2,000,000","SEP 24, 2021",4,3,"2,189","7,875 Sq. Ft.",$21,1963,Single Family Residential
+27,"36158 SAN PEDRO Dr,Fremont, CA 94536","$960,000","SEP 24, 2021",3,2,"1,148","7,120 Sq. Ft.",0,1956,Single Family Residential
+28,"35573 Purcell Pl,Fremont, CA 94536","$1,565,000","SEP 24, 2021",3,2,"1,576","5,800 Sq. Ft.",0,1967,Single Family Residential
+29,"36166 Coronado Dr,Fremont, CA 94536","$1,250,000","SEP 23, 2021",3,2,"1,148","6,196 Sq. Ft.",0,1958,Single Family Residential
+30,"40811 Capa Dr,Fremont, CA 94539","$1,880,000","SEP 23, 2021",4,2,"1,514","7,524 Sq. Ft.",0,1965,Single Family Residential
+31,"4258 Blue Ridge St,FREMONT, CA 94536","$1,615,000","SEP 23, 2021",4,2,"1,564","6,600 Sq. Ft.",0,1961,Single Family Residential
+32,"4548 Renato Ct,Fremont, CA 94536","$1,360,000","SEP 23, 2021",3,2,"1,240","9,074 Sq. Ft.",0,1965,Single Family Residential
+33,"39639 Embarcadero Ter,Fremont, CA 94538","$945,000","SEP 23, 2021",3,2.5,"1,371","2,521 Sq. Ft.",$37,1979,Single Family Residential
+34,"45271 Electric Ter #402,Fremont, CA 94539","$1,635,000","SEP 22, 2021",3,2.5,"2,100",0,$554,2020,Condo/Co-op
+35,"37284 Spruce Ter,FREMONT, CA 94536","$410,000","SEP 21, 2021",1,1,593,0,$329,1986,Condo/Co-op
+36,"40959 Nunes Ct,Fremont, CA 94539","$1,518,000","SEP 21, 2021",3,2,"1,364","4,104 Sq. Ft.",0,1969,Single Family Residential
+37,"37396 SEQUOIA Rd,Fremont, CA 94536","$1,240,000","SEP 21, 2021",4,4,"2,047",0,$332,2019,Condo/Co-op
+38,"45257 Elk Ct,FREMONT, CA 94539","$2,500,000","SEP 21, 2021",5,3,"2,743","6,400 Sq. Ft.",$85,1989,Single Family Residential
+39,"5508 Azalea Way,NEWARK, CA 94560","$1,250,000","SEP 21, 2021",3,3.5,"2,120","2,263 Sq. Ft.",$186,2015,Single Family Residential
+40,"4304 Jessica Cir,Fremont, CA 94555","$1,475,000","SEP 20, 2021",4,2,"1,380","4,864 Sq. Ft.",0,1980,Single Family Residential
+41,"3538 Surry Pl,Fremont, CA 94536","$1,501,500","SEP 20, 2021",3,2,"1,420","5,512 Sq. Ft.",0,1972,Single Family Residential
+42,"46900 Shale Cmn #136,Fremont, CA 94539","$710,000","SEP 17, 2021",2,2,936,0,$310,1987,Condo/Co-op
+43,"4457 Bush Cir,Fremont, CA 94538","$1,570,000","SEP 17, 2021",3,2.5,"1,717","6,002 Sq. Ft.",0,1988,Single Family Residential
+44,"34486 Benedick Ln,Fremont, CA 94555","$1,230,000","SEP 17, 2021",4,2.5,"1,647","3,083 Sq. Ft.",0,1986,Single Family Residential
+45,"175 Carson Falls Ter,Fremont, CA 94539","$798,880","SEP 17, 2021",2,2.5,"1,496",0,$500,—,Condo/Co-op
+46,"40812 Ondina,Fremont, CA 94539","$2,900,000","SEP 17, 2021",4,2.5,"3,434","8,100 Sq. Ft.",0,1978,Single Family Residential
+47,"41083 Joyce Ave,Fremont, CA 94539","$1,490,000","SEP 17, 2021",3,2,"1,389","4,032 Sq. Ft.",$34,1972,Single Family Residential
+48,"38250 ALTA Dr,Fremont, CA 94536-7129","$1,660,000","SEP 17, 2021",3,2,"1,436","8,397 Sq. Ft.",$22,1959,Single Family Residential
+49,"4777 Canvasback Cmn,Fremont, CA 94555","$1,400,000","SEP 16, 2021",3,2.5,"1,607","2,826 Sq. Ft.",$85,1988,Single Family Residential
+50,"40430 Torenia Cir,Fremont, CA 94538","$1,310,000","SEP 16, 2021",3,2,"1,117","5,773 Sq. Ft.",0,1994,Single Family Residential
+51,"33518 Maverick Loop,Fremont, CA 94555","$2,650,000","SEP 16, 2021",4,2.5,"3,075","5,400 Sq. Ft.",$154,2017,Single Family Residential
+52,"218 Staircase Falls Cmn,Fremont, CA 94539","$1,609,990","SEP 16, 2021",3,3.5,"2,029","3,355 Sq. Ft.",$288,—,Vacant Land
+53,"4717 Doane St,Fremont, CA 94538","$767,500","SEP 16, 2021",2,2.5,"1,308","1,150 Sq. Ft.",$390,1987,Townhouse
+54,"43534 Gallegos Ave,Fremont, CA 94539","$3,201,000","SEP 16, 2021",5,5,"4,207",0.39 Acres,0,2002,Single Family Residential
+55,"34391 Torrington Ct,Fremont, CA 94555","$1,540,000","SEP 15, 2021",4,2,"1,400","5,577 Sq. Ft.",0,1970,Single Family Residential
+56,"45168 Tom Blalock St #302,Fremont, CA 94539","$1,590,000","SEP 15, 2021",3,3.5,"2,392",0,$517,2020,Condo/Co-op
+57,"4745 El Rey Ave,Fremont, CA 94536","$1,140,000","SEP 15, 2021",3,2,"1,163","5,378 Sq. Ft.",0,1955,Single Family Residential
+58,"827 Yakima Dr,Fremont, CA 94539","$3,650,000","SEP 14, 2021",6,6.5,"5,210",0.31 Acres,0,—,Single Family Residential
+59,"151 Wenatchee Cmn,Fremont, CA 94539","$830,000","SEP 14, 2021",3,2,"1,170",0,$310,1987,Condo/Co-op
+60,"43034 Via Moraga,Fremont, CA 94539","$2,720,000","SEP 14, 2021",4,2.5,"2,178","10,000 Sq. Ft.",0,1973,Single Family Residential
+61,"5642 Cello Way,Fremont, CA 94538","$1,278,000","SEP 14, 2021",3,2,"1,131","6,136 Sq. Ft.",0,1963,Single Family Residential
+62,"4099 Tamayo St,Fremont, CA 94536","$1,350,000","SEP 14, 2021",3,2,"1,585","6,774 Sq. Ft.",0,1971,Single Family Residential
+63,"3517 Birchwood Ter #102,Fremont, CA 94536","$600,000","SEP 14, 2021",2,2,981,981 Sq. Ft.,$548,1984,Condo/Co-op
+64,"37585 Chauntry Cmn,Fremont, CA 94536","$1,430,000","SEP 13, 2021",3,2.5,"1,659","3,998 Sq. Ft.",$133,1994,Single Family Residential
+65,"1195 Gilbert Ct,Fremont, CA 94536-4036","$1,160,000","SEP 13, 2021",3,2,"1,243","6,441 Sq. Ft.",0,1977,Single Family Residential
+66,"42339 Gatewood St,Fremont, CA 94538","$1,300,000","SEP 13, 2021",3,2,"1,108","6,000 Sq. Ft.",0,1960,Single Family Residential
+67,"38426 Redwood Ter #14,FREMONT, CA 94536","$900,000","SEP 11, 2021",2,2.5,"1,400",0,$385,1982,Condo/Co-op
+68,"2861 Pinnacles Ter,Fremont, CA 94538","$1,330,000","SEP 10, 2021",4,3.5,"2,093","1,768 Sq. Ft.",$149,2013,Single Family Residential
+69,"34262 Barnfield Pl,FREMONT, CA 94555","$1,475,000","SEP 10, 2021",3,2,"1,305","7,150 Sq. Ft.",0,1970,Single Family Residential
+70,"35050 Sofia Ct,Fremont, CA 94536","$1,225,000","SEP 10, 2021",4,2,"1,399",0.32 Acres,0,1964,Single Family Residential
+71,"156 Carson Falls Ter,Fremont, CA 94539","$818,880","SEP 10, 2021",2,2.5,"1,496",0,$500,—,Multi-Family (2-4 Unit)
+72,"40311 Leslie St,FREMONT, CA 94538","$1,410,000","SEP 10, 2021",4,2,"1,496","6,464 Sq. Ft.",0,1969,Single Family Residential
+73,"48911 Tonalea St,Fremont, CA 94539","$1,525,000","SEP 9, 2021",4,2,"1,231","7,202 Sq. Ft.",0,1978,Single Family Residential
+74,"39859 Burr Ave,FREMONT, CA 94538","$1,140,520","SEP 9, 2021",3,2,"1,148","5,400 Sq. Ft.",0,1959,Single Family Residential
+75,"47522 Minaret Falls Ter,Fremont, CA 94539","$1,680,000","SEP 9, 2021",3,3.5,"2,175","3,055 Sq. Ft.",$288,—,Vacant Land
+76,"3678 Wyndham,Fremont, CA 94536-2457","$1,300,000","SEP 9, 2021",3,2,"1,688",0.29 Acres,0,1972,Single Family Residential
+77,"4022 Abbey Ter #104,Fremont, CA 94536","$549,000","SEP 8, 2021",2,1,748,0,$375,1986,Condo/Co-op
+78,"4866 Garnet Cmn,Fremont, CA 94555","$1,421,000","SEP 8, 2021",3,2.5,"1,398","3,399 Sq. Ft.",$85,1988,Single Family Residential
+79,"35031 Clover St,Union City, CA 94587","$1,270,000","SEP 8, 2021",4,2,"1,550","6,000 Sq. Ft.",0,1971,Single Family Residential
+80,"218 E Warren Cmn,Fremont, CA 94539","$860,000","SEP 8, 2021",3,2,"1,204",0,$430,1982,Condo/Co-op
+81,"47512 Minaret Falls Ter,Fremont, CA 94539","$1,663,885","SEP 8, 2021",3,3.5,"2,260","3,170 Sq. Ft.",$288,—,Single Family Residential
+82,"40574 Blacow Rd,Fremont, CA 94538","$1,200,000","SEP 8, 2021",3,2,"1,488","5,700 Sq. Ft.",0,1960,Single Family Residential
+83,"40574 Blacow Rd,Fremont, CA 94538","$1,200,000","SEP 8, 2021",3,2,"1,488","5,700 Sq. Ft.",0,1960,Single Family Residential
+84,"510 Ondina Dr,Fremont, CA 94539","$2,500,000","SEP 8, 2021",4,3,"2,461","7,594 Sq. Ft.",0,1977,Single Family Residential
+85,"5653 Pandorea Ter,NEWARK, CA 94560","$945,000","SEP 8, 2021",3,2,"1,456",0,$295,2017,Condo/Co-op
+86,"35920 Perkins St,Fremont, CA 94536","$1,300,000","SEP 7, 2021",4,2,"1,714","7,200 Sq. Ft.",0,1969,Single Family Residential
+87,"36531 Bosworth Ct,Fremont, CA 94536","$1,459,000","SEP 7, 2021",3,2,"1,322","6,226 Sq. Ft.",0,1977,Single Family Residential
+88,"4991 Conway Ter,Fremont, CA 94555","$1,030,000","SEP 7, 2021",3,2.5,"1,309",3.43 Acres,$380,—,Townhouse
+89,"3671 Wilmington Rd,Fremont, CA 94538","$1,485,000","SEP 3, 2021",4,2,"2,022","7,560 Sq. Ft.",0,1960,Single Family Residential
+90,"38687 Huntington Cir,Fremont, CA 94536","$659,000","SEP 3, 2021",2,2,840,0,$408,1988,Condo/Co-op
+91,"5483 Truman Pl,Fremont, CA 94538","$1,269,000","SEP 3, 2021",3,2,"1,387","6,000 Sq. Ft.",0,1967,Single Family Residential
+92,"34259 Torrington Pl,Fremont, CA 94555","$1,501,000","SEP 3, 2021",4,2,"2,055","6,417 Sq. Ft.",0,1970,Single Family Residential
+93,"3669 Dickenson Cmn,Fremont, CA 94538","$1,061,000","SEP 3, 2021",3,2.5,"1,448","1,136 Sq. Ft.",$220,1997,Townhouse
+94,"372 Rivercreek Dr,Fremont, CA 94536","$1,465,000","SEP 3, 2021",4,2.5,"1,789","3,875 Sq. Ft.",0,1989,Single Family Residential
+95,"2982 Southwycke Ter,Fremont, CA 94536","$1,200,000","SEP 2, 2021",2,2.5,"1,376","4,021 Sq. Ft.",$81,1988,Single Family Residential
+96,"34641 Pueblo Ter #106,FREMONT, CA 94555","$760,000","SEP 2, 2021",2,2,918,0,$380,1989,Condo/Co-op
+97,"5696 Pandorea Ter,NEWARK, CA 94560","$1,094,000","SEP 1, 2021",3,3.5,"1,925","1,384 Sq. Ft.",$250,2017,Townhouse
+98,"41851 Mahoney St,Fremont, CA 94538","$1,400,000","SEP 1, 2021",3,2,"1,355","8,544 Sq. Ft.",0,1956,Single Family Residential
+99,"3938 Fossano Cmn,FREMONT, CA 94538","$1,198,000","SEP 1, 2021",3,3.5,"1,818",939 Sq. Ft.,$286,2018,Townhouse
+100,"306 Via Rosario,Fremont, CA 94539","$975,000","SEP 1, 2021",3,2,"1,188","1,458 Sq. Ft.",$325,1971,Townhouse
+101,"4743 Mendocino Ter,Fremont, CA 94555","$1,355,000","AUG 31, 2021",4,2.5,"1,863","1,105 Sq. Ft.",$85,1987,Single Family Residential
+102,"4291 Tiburon Dr,FREMONT, CA 94555","$1,138,888","AUG 31, 2021",3,2.5,"1,555","3,257 Sq. Ft.",$220,1985,Townhouse
+103,"40535 Dolores Pl,Fremont, CA 94539-3636","$2,376,000","AUG 31, 2021",5,3,"2,460","7,650 Sq. Ft.",0,1970,Single Family Residential
+104,"201 Hackamore Ln,Fremont, CA 94539","$1,838,000","AUG 31, 2021",3,2,"1,516","6,600 Sq. Ft.",0,1976,Single Family Residential
+105,"3327 Churchill Ct,Fremont, CA 94536","$1,585,000","AUG 31, 2021",3,2,"2,104","6,618 Sq. Ft.",0,1971,Single Family Residential
+106,"4528 Novato St,Union City, CA 94587","$1,760,000","AUG 31, 2021",3,3,"2,213","5,000 Sq. Ft.",0,2009,Single Family Residential
+107,"5405 Clarendon Park Ct,Fremont, CA 94538","$1,408,000","AUG 31, 2021",4,2,"1,736","7,630 Sq. Ft.",0,1962,Single Family Residential
+108,"83 Wenatchee Cmn #13,FREMONT, CA 94539","$685,000","AUG 30, 2021",2,2,936,0,$310,1987,Condo/Co-op
+109,"38420 Dennis Ct,Fremont, CA 94536","$1,675,000","AUG 30, 2021",3,2,"1,978","9,741 Sq. Ft.",0,1960,Single Family Residential
+110,"38472 Botany Grn,Fremont, CA 94536","$1,100,000","AUG 30, 2021",3,2,"1,413","5,399 Sq. Ft.",$29,1978,Single Family Residential
+111,"3507 Buttonwood Ter #102,Fremont, CA 94536","$385,000","AUG 30, 2021",1,1,714,355 Sq. Ft.,$531,1985,Condo/Co-op
+112,"41423 Timber Creek Ter,FREMONT, CA 94539","$1,460,000","AUG 30, 2021",3,2.5,"1,620","2,430 Sq. Ft.",$340,1984,Townhouse
+113,"4278 Margery Dr,Fremont, CA 94538","$1,285,000","AUG 30, 2021",3,2,"1,467","6,258 Sq. Ft.",0,1959,Single Family Residential
+114,"3662 Colet Ter,Fremont, CA 94536","$690,000","AUG 27, 2021",2,1,900,"1,200 Sq. Ft.",$295,1974,Townhouse
+115,"49190 Daffodil Ter,Fremont, CA 94539","$1,430,000","AUG 27, 2021",3,2.5,"1,817","2,152 Sq. Ft.",$135,2006,Single Family Residential
+116,"5185 Roycroft Way,Fremont, CA 94538","$1,330,000","AUG 27, 2021",4,2,"1,579","6,000 Sq. Ft.",0,1961,Single Family Residential
+117,"217 Staircase Falls Cmn,Fremont, CA 94539","$1,610,000","AUG 27, 2021",3,3.5,"2,029","3,355 Sq. Ft.",$288,—,Vacant Land
+118,"575 Ondina Dr,Fremont, CA 94539","$2,250,000","AUG 27, 2021",4,3,"2,461","7,554 Sq. Ft.",0,1977,Single Family Residential
+119,"4661 Richmond Ave,Fremont, CA 94536","$1,957,000","AUG 27, 2021",3,2.5,"1,965","8,676 Sq. Ft.",$21,1958,Single Family Residential
+120,"34683 Teal Cmn,Fremont, CA 94555","$1,560,120","AUG 27, 2021",4,2.5,"1,647","3,210 Sq. Ft.",$85,1987,Single Family Residential
+121,"45188 Tom Blalock St #111,FREMONT, CA 94539","$1,185,000","AUG 27, 2021",2,2,"1,782",0,$542,2019,Condo/Co-op
+122,"3191 Southwycke Ter,FREMONT, CA 94536","$1,360,000","AUG 27, 2021",3,2.5,"1,759","3,385 Sq. Ft.",$81,1988,Single Family Residential
+123,"38160 Camden St,Fremont, CA 94536","$1,475,000","AUG 27, 2021",4,2,"1,601","6,136 Sq. Ft.",0,1964,Single Family Residential
+124,"34118 Songbird Ter,Fremont, CA 94555","$1,600,000","AUG 27, 2021",4,2.5,"1,898","3,608 Sq. Ft.",$87,1998,Single Family Residential
+125,"38160 Camden St,Fremont, CA 94536","$1,475,000","AUG 27, 2021",4,2,"1,601","6,136 Sq. Ft.",0,1964,Single Family Residential
+126,"5764 Via Lugano,Fremont, CA 94555","$1,080,000","AUG 27, 2021",3,3.5,"1,617",0,$245,2012,Condo/Co-op
+127,"5070 Garden Way,Fremont, CA 94536","$1,100,000","AUG 27, 2021",4,2,"1,080","6,270 Sq. Ft.",0,1960,Single Family Residential
+128,"41544 Erma Ave,Fremont, CA 94539","$1,411,000","AUG 27, 2021",3,2,"1,188","5,500 Sq. Ft.",0,1955,Single Family Residential
+129,"256 Sequim Cmn,Fremont, CA 94539","$528,000","AUG 26, 2021",1,1,827,0,$320,1985,Condo/Co-op
+130,"3467 Pinewood Ter #204,Fremont, CA 94536","$600,000","AUG 26, 2021",2,2,981,0,$548,1986,Condo/Co-op
+131,"37408 Monteverde Ter,Fremont, CA 94536","$1,053,000","AUG 26, 2021",3,2.5,"1,519","1,132 Sq. Ft.",$240,2006,Condo/Co-op
+132,"38047 Miller Pl,FREMONT, CA 94536","$1,200,000","AUG 25, 2021",3,2,"1,389","4,200 Sq. Ft.",0,1973,Single Family Residential
+133,"2792 Arlington Pl,Fremont, CA 94555","$1,540,000","AUG 25, 2021",3,2,"1,656","10,257 Sq. Ft.",0,1971,Single Family Residential
+134,"380 Barton Dr,Fremont, CA 94536","$1,290,000","AUG 25, 2021",4,2.5,"1,738","7,840 Sq. Ft.",0,1953,Single Family Residential
+135,"42804 Deauville Park Ct,Fremont, CA 94538","$1,380,000","AUG 24, 2021",3,2,"1,455","6,400 Sq. Ft.",0,1963,Single Family Residential
+136,"39632 Iolani Ct,Fremont, CA 94538","$1,158,000","AUG 24, 2021",4,2,"1,500","5,720 Sq. Ft.",0,1961,Single Family Residential
+137,"4222 Deep Creek Rd,Fremont, CA 94555","$1,590,000","AUG 24, 2021",4,2,"1,693","6,578 Sq. Ft.",0,1979,Single Family Residential
+138,"3814 BURTON Cmn,Fremont, CA 94536","$960,000","AUG 24, 2021",2,2.5,"1,400","1,592 Sq. Ft.",$450,1981,Townhouse
+139,"33685 Simple Ct,Fremont, CA 94555","$1,770,000","AUG 24, 2021",4,2.5,"2,052","5,500 Sq. Ft.",0,1984,Single Family Residential
+140,"4463 Hyde Cmn #302,Fremont, CA 94538","$815,000","AUG 23, 2021",2,2,"1,244",0,$443,2009,Condo/Co-op
+141,"5417 Diana Cmn,FREMONT, CA 94555","$1,300,000","AUG 23, 2021",3,2.5,"1,446","6,455 Sq. Ft.",$68,1989,Single Family Residential
+142,"4874 Rogers Ave,Fremont, CA 94536","$1,703,000","AUG 23, 2021",3,1.5,"1,639","9,600 Sq. Ft.",$21,1953,Single Family Residential
+143,"875 Nina Way,Fremont, CA 94539","$2,110,000","AUG 23, 2021",4,2,"1,924","8,023 Sq. Ft.",0,1964,Single Family Residential
+144,"4649 Richmond Ave,Fremont, CA 94536","$2,106,000","AUG 23, 2021",4,3.5,"2,287","8,698 Sq. Ft.",$21,1958,Single Family Residential
+145,"41415 Millenium Ter,FREMONT, CA 94538","$1,045,000","AUG 23, 2021",3,2.5,"1,414","1,170 Sq. Ft.",$334,2002,Townhouse
+146,"35815 Hibiscus Ct,Fremont, CA 94536","$1,850,000","AUG 20, 2021",5,3.5,"2,499","9,900 Sq. Ft.",0,1955,Single Family Residential
+147,"35623 Chaplin Dr,Fremont, CA 94536","$2,000,000","AUG 20, 2021",5,3,"2,932","5,466 Sq. Ft.",0,1985,Single Family Residential
+148,"5387 Edmonton Cmn,Fremont, CA 94555","$1,275,000","AUG 20, 2021",2,2.5,"1,533","2,768 Sq. Ft.",$83,1990,Single Family Residential
+149,"45128 Warm Springs Blvd #656,Fremont, CA 94539-9453","$1,220,000","AUG 20, 2021",3,2,"1,740","1,740 Sq. Ft.",$487,2020,Condo/Co-op
+150,"42321 Paich Ct,Fremont, CA 94539","$1,950,000","AUG 20, 2021",6,3,"2,854",0.29 Acres,0,1959,Single Family Residential
+151,"34221 Finnigan Ter,Fremont, CA 94555","$1,650,000","AUG 20, 2021",4,2.5,"1,857","7,308 Sq. Ft.",$43,1990,Single Family Residential
+152,"39109 Guardino Dr #230,Fremont, CA 94538","$425,000","AUG 20, 2021",1,1,693,0,$522,1987,Condo/Co-op
+153,"38524 Athy Ct,Fremont, CA 94536","$1,505,000","AUG 20, 2021",3,2,"1,462","6,732 Sq. Ft.",0,1964,Single Family Residential
+154,"48920 Crestview Cmn,Fremont, CA 94539","$3,750,000","AUG 19, 2021",5,3.5,"3,530",0.46 Acres,$205,1998,Single Family Residential
+155,"3534 Sequoia Cmn,FREMONT, CA 94536","$1,045,000","AUG 19, 2021",3,2.5,"1,519","1,132 Sq. Ft.",$240,2006,Condo/Co-op
+156,"42253 Camino Santa Barbara,Fremont, CA 94539","$2,200,000","AUG 19, 2021",4,3,"2,274","7,875 Sq. Ft.",0,1964,Single Family Residential
+157,"38627 Cherry Ln #35,FREMONT, CA 94536","$405,000","AUG 19, 2021",1,1,628,0,$415,1974,Condo/Co-op
+158,"38729 Huntington Cir,Fremont, CA 94536","$920,000","AUG 19, 2021",3,2.5,"1,284","1,284 Sq. Ft.",$408,1989,Condo/Co-op
+159,"3689 Turner Ct,Fremont, CA 94536","$1,345,000","AUG 19, 2021",4,2,"1,503","4,275 Sq. Ft.",0,1976,Single Family Residential
+160,"343 Prairie Dog Ln,FREMONT, CA 94539","$2,150,000","AUG 19, 2021",4,3,"1,866","8,513 Sq. Ft.",0,1979,Single Family Residential
+161,"3825 Haven Ave,FREMONT, CA 94538","$1,430,000","AUG 19, 2021",3,2.5,"1,400","8,349 Sq. Ft.",0,1950,Single Family Residential
+162,"3592 Langdon Cmn,FREMONT, CA 94538","$1,237,000","AUG 19, 2021",3,2.5,"1,637","1,047 Sq. Ft.",$220,1998,Townhouse
+163,"1217 Deer Rd,Fremont, CA 94536","$1,015,000","AUG 18, 2021",3,1,"1,087","6,090 Sq. Ft.",0,1941,Single Family Residential
+164,"43033 Calle Esperanza,Fremont, CA 94539","$1,925,000","AUG 18, 2021",4,3.5,"2,374","1,462 Sq. Ft.",$176,2018,Single Family Residential
+165,"1527 Bridges Ct,Fremont, CA 94536","$1,460,000","AUG 18, 2021",4,3,"2,206","6,600 Sq. Ft.",0,1985,Single Family Residential
+166,"4493 Nicolet Ave,Fremont, CA 94536","$1,178,216","AUG 18, 2021",3,2,"1,148","5,662 Sq. Ft.",0,1957,Single Family Residential
+167,"508 Emerson St,Fremont, CA 94539","$2,835,000","AUG 18, 2021",4,4,"3,060","5,508 Sq. Ft.",0,2007,Single Family Residential
+168,"38780 Tyson Ln Unit 105C,Fremont, CA 94536","$515,000","AUG 17, 2021",1,1,870,0,$495,1982,Condo/Co-op
+169,"35416 Niles Blvd,Fremont, CA 94536","$980,000","AUG 17, 2021",2,1,987,"9,695 Sq. Ft.",0,—,Single Family Residential
+170,"5657 Statice Cmn,Fremont, CA 94538","$700,000","AUG 17, 2021",2,2,850,0,$320,1994,Condo/Co-op
+171,"3395 Pinewood Ter #102,Fremont, CA 94536","$375,000","AUG 17, 2021",1,1,714,3.38 Acres,$531,1987,Condo/Co-op
+172,"41796 Maywood St,Fremont, CA 94538","$1,326,000","AUG 17, 2021",3,2,"1,118","6,156 Sq. Ft.",0,1959,Single Family Residential
+173,"38905 Matson Pl,Fremont, CA 94536","$1,635,000","AUG 17, 2021",4,3,"2,177","6,325 Sq. Ft.",0,1979,Single Family Residential
+174,"3695 Stevenson Blvd Unit A341,Fremont, CA 94538","$721,000","AUG 17, 2021",2,2,"1,040",0,$370,1991,Condo/Co-op
+175,"3839 Development Ter #1005,Fremont, CA 94538","$975,000","AUG 17, 2021",2,2.5,"1,326","1,326 Sq. Ft.",$370,2019,Condo/Co-op
+176,"43325 Isle Royal St,Fremont, CA 94538","$1,190,000","AUG 17, 2021",3,2,"1,296","5,700 Sq. Ft.",0,1962,Single Family Residential
+177,"1507 Olive Ave,Fremont, CA 94539","$2,725,000","AUG 17, 2021",6,3.5,"3,135",0.26 Acres,0,1960,Single Family Residential
+178,"35549 Linda Dr,Fremont, CA 94536","$1,458,000","AUG 16, 2021",5,3,"1,527","5,000 Sq. Ft.",0,1952,Single Family Residential
+179,"5127 Troy Ave,Fremont, CA 94536","$1,480,000","AUG 16, 2021",4,2,"1,670","7,650 Sq. Ft.",$21,1961,Single Family Residential
+180,"4547 Alhambra Dr,Fremont, CA 94536","$1,400,000","AUG 16, 2021",4,2,"1,512","5,400 Sq. Ft.",0,1957,Single Family Residential
+181,"4447 Sloat Rd,FREMONT, CA 94538","$1,400,000","AUG 13, 2021",5,3,"1,610","6,099 Sq. Ft.",0,1960,Single Family Residential
+182,"43253 FRESCO Ter,Fremont, CA 94539-5885","$1,345,000","AUG 13, 2021",3,2.5,"1,612","1,372 Sq. Ft.",$288,2006,Townhouse
+183,"39203 Farwell Dr,Fremont, CA 94538","$1,165,000","AUG 13, 2021",3,2,"1,306","5,800 Sq. Ft.",0,1967,Single Family Residential
+184,"37425 Rockwood Dr,Fremont, CA 94536","$1,000,000","AUG 13, 2021",3,2,"1,167","5,400 Sq. Ft.",0,1955,Single Family Residential
+185,"37699 Carriage Circle Cmn,Fremont, CA 94536","$1,200,000","AUG 13, 2021",3,2.5,"1,662","3,659 Sq. Ft.",$127,1985,Single Family Residential
+186,"3041 Stonehenge Rd,Fremont, CA 94555","$1,760,000","AUG 13, 2021",4,2.5,"2,053","7,632 Sq. Ft.",0,1976,Single Family Residential
+187,"4444 Norocco Cir,FREMONT, CA 94555","$1,460,000","AUG 12, 2021",3,2,"1,241","4,050 Sq. Ft.",0,1982,Single Family Residential
+188,"3289 Bruce Dr,Fremont, CA 94539","$1,745,000","AUG 12, 2021",3,3,"2,208","8,190 Sq. Ft.",0,1955,Single Family Residential
+189,"39199 Guardino Dr #271,Fremont, CA 94538","$445,000","AUG 12, 2021",1,1,693,0,$465,1987,Condo/Co-op
+190,"2445 Heritage Way,Union City, CA 94587","$1,850,000","AUG 12, 2021",4,2.5,"3,020","6,000 Sq. Ft.",0,1998,Single Family Residential
+191,"4514 Thornton Ave,Fremont, CA 94536","$758,000","AUG 12, 2021",3,2.5,"1,408",0,$349,1972,Condo/Co-op
+192,"40550 Blacow Rd,FREMONT, CA 94538","$1,010,000","AUG 11, 2021",3,2,"1,152","5,500 Sq. Ft.",0,1960,Single Family Residential
+193,"3454 Bridgewood Ter #211,Fremont, CA 94536","$636,000","AUG 11, 2021",2,2,"1,125",0,$556,1986,Condo/Co-op
+194,"3467 Pinewood Ter #103,Fremont, CA 94536","$585,000","AUG 11, 2021",2,2,981,0,$548,1986,Condo/Co-op
+195,"4477 Morgan Cmn,Fremont, CA 94536","$1,400,000","AUG 11, 2021",4,3.5,"1,922","2,117 Sq. Ft.",$125,2008,Single Family Residential
+196,"2749 Pismo Ter,Fremont, CA 94538","$1,165,000","AUG 11, 2021",3,2.5,"1,644","1,418 Sq. Ft.",$149,2014,Single Family Residential
+197,"4588 De Silva St,Fremont, CA 94538","$1,075,000","AUG 11, 2021",3,1,"1,036","5,400 Sq. Ft.",0,1960,Single Family Residential
+198,"3966 Lake Tahoe Ter,Fremont, CA 94555","$670,000","AUG 10, 2021",2,1.5,"1,056",960 Sq. Ft.,$236,1971,Townhouse
+199,"37440 Southwood Dr,FREMONT, CA 94536","$1,260,000","AUG 10, 2021",3,2,"1,119","5,400 Sq. Ft.",0,1954,Single Family Residential
+200,"36161 Elba Pl,Fremont, CA 94536","$1,470,000","AUG 10, 2021",4,2.5,"1,797","5,700 Sq. Ft.",0,1965,Single Family Residential
+201,"36505 Nasa Ter,Fremont, CA 94536","$668,000","AUG 10, 2021",2,1,972,"1,289 Sq. Ft.",$329,1971,Townhouse
+202,"36850 Dauphine Ave,Fremont, CA 94536","$1,352,000","AUG 10, 2021",3,2,"1,400","7,121 Sq. Ft.",0,1961,Single Family Residential
+203,"38220 Hastings St,Fremont, CA 94536","$1,650,000","AUG 10, 2021",4,2.5,"1,794","7,980 Sq. Ft.",0,1963,Single Family Residential
+204,"4890 Chalmette Park Ct,Fremont, CA 94538","$1,380,000","AUG 10, 2021",3,2,"1,347","6,600 Sq. Ft.",0,1963,Single Family Residential
+205,"33312 Jamie Cir,Fremont, CA 94555-1576","$1,575,000","AUG 10, 2021",4,3,"1,904","4,008 Sq. Ft.",0,1994,Single Family Residential
+206,"43876 Paso Pino Cmn,FREMONT, CA 94539","$1,280,000","AUG 9, 2021",4,3.5,"1,842","8,300 Sq. Ft.",$270,2012,Condo/Co-op
+207,"709 Gallegos Ter,Fremont, CA 94539","$1,100,000","AUG 9, 2021",4,2.5,"1,578","1,200 Sq. Ft.",$399,1970,Townhouse
+208,"33035 Lake Erie St,FREMONT, CA 94555","$935,000","AUG 9, 2021",3,2,"1,148","3,189 Sq. Ft.",0,1970,Single Family Residential
+209,"35983 Plumeria Way,Fremont, CA 94536","$1,575,000","AUG 9, 2021",4,2,"1,815","8,200 Sq. Ft.",0,1969,Single Family Residential
+210,"3648 Birchwood Ter #215,FREMONT, CA 94536","$625,000","AUG 9, 2021",2,2,"1,123",0,$556,1984,Condo/Co-op
+211,"925 Darlington Cmn,FREMONT, CA 94536","$1,700,000","AUG 9, 2021",4,3,"2,325","4,258 Sq. Ft.",$205,2010,Single Family Residential
+212,"3630 Campbell Ct,Fremont, CA 94536","$1,400,000","AUG 9, 2021",3,2,"1,453","4,725 Sq. Ft.",0,1976,Single Family Residential
+213,"43415 Columbia Ave,FREMONT, CA 94538","$1,040,000","AUG 6, 2021",3,2,"1,112","5,000 Sq. Ft.",0,1954,Single Family Residential
+214,"40846 Calido Pl,Fremont, CA 94539","$1,870,000","AUG 6, 2021",4,2,"1,694","6,970 Sq. Ft.",0,1964,Single Family Residential
+215,"47112 Warm Springs Blvd #313,Fremont, CA 94539","$607,000","AUG 6, 2021",2,1,970,0,$515,1982,Condo/Co-op
+216,"117 Peony Ct,Fremont, CA 94538","$1,580,000","AUG 6, 2021",4,3,"2,185","8,379 Sq. Ft.",0,1961,Single Family Residential
+217,"39127 Walnut Ter,FREMONT, CA 94536","$505,000","AUG 6, 2021",1,1,895,0,$495,1984,Condo/Co-op
+218,"2827 Olive Ave,Fremont, CA 94539","$1,490,000","AUG 6, 2021",3,2,"1,132","8,750 Sq. Ft.",0,1954,Single Family Residential
+219,"2655 Morello Ct,Union City, CA 94587","$1,290,000","AUG 6, 2021",4,2,"1,544","7,936 Sq. Ft.",0,1973,Single Family Residential
+220,"5406 Matthew Ter,Fremont, CA 94555","$1,349,000","AUG 6, 2021",4,2.5,"1,762","4,020 Sq. Ft.",$129,1988,Single Family Residential
+221,"39975 Cedar Blvd #232,Newark, CA 94560","$421,000","AUG 5, 2021",1,1,777,0,$403,1985,Condo/Co-op
+222,"33892 Abercrombie Pl,Fremont, CA 94555","$2,773,888","AUG 4, 2021",6,4,"3,905","9,899 Sq. Ft.",0,1976,Single Family Residential
+223,"41546 Patton Ter,FREMONT, CA 94538","$1,015,000","AUG 4, 2021",3,2.5,"1,453",0,$330,1988,Condo/Co-op
+224,"38798 Hygelund Dr,Fremont, CA 94536","$1,515,000","AUG 4, 2021",3,2,"1,700","6,452 Sq. Ft.",0,1960,Single Family Residential
+225,"34160 Via Lucca,Fremont, CA 94555","$1,065,000","AUG 4, 2021",3,3.5,"1,481",0,$245,2007,Condo/Co-op
+226,"39882 Parada St,Newark, CA 94560","$1,190,000","AUG 3, 2021",3,2.5,"1,766","2,270 Sq. Ft.",$202,1994,Single Family Residential
+227,"38271 Eggers Cmn,FREMONT, CA 94536","$1,350,000","AUG 3, 2021",3,2.5,"1,722","2,450 Sq. Ft.",$125,2004,Townhouse
+228,"40364 Canoga St,Fremont, CA 94538","$1,120,000","AUG 3, 2021",3,2,"1,157","6,600 Sq. Ft.",0,1959,Single Family Residential
+229,"179 Tiny St,MILPITAS, CA 95035","$1,120,000","AUG 2, 2021",3,2,"1,136","6,046 Sq. Ft.",0,1958,Single Family Residential
+230,"3890 Dunbar Pl,Fremont, CA 94536","$1,150,000","AUG 2, 2021",3,2,"1,219","4,822 Sq. Ft.",0,1977,Single Family Residential
+231,"38137 Cambridge Ct,Fremont, CA 94536","$1,700,000","AUG 2, 2021",4,2.5,"2,240","5,161 Sq. Ft.",0,1994,Single Family Residential
+232,"289 Hackamore Cmn,Fremont, CA 94539","$630,000","JUL 30, 2021",2,1,878,0,$430,1984,Condo/Co-op
+233,"38785 Hygelund Dr,FREMONT, CA 94536","$1,168,800","JUL 30, 2021",3,2,"1,272","6,003 Sq. Ft.",0,1960,Single Family Residential
+234,"34432 Alberta Ter,Fremont, CA 94555","$1,500,000","JUL 30, 2021",3,2.5,"1,751","2,886 Sq. Ft.",$83,1990,Single Family Residential
+235,"4680 Rousillon Ave,Fremont, CA 94555","$1,210,000","JUL 30, 2021",3,2.5,"1,451","3,243 Sq. Ft.",0,1986,Single Family Residential
+236,"4249 Torres Ave,Fremont, CA 94536","$1,701,000","JUL 30, 2021",4,2,"1,740","6,000 Sq. Ft.",0,1962,Single Family Residential
+237,"3546 Sequoia Cmn,FREMONT, CA 94536","$1,170,000","JUL 30, 2021",3,2.5,"1,864","1,539 Sq. Ft.",$240,2005,Townhouse
+238,"38966 Gar Ter,FREMONT, CA 94536","$1,100,000","JUL 29, 2021",3,2.5,"1,400","1,014 Sq. Ft.",$210,1995,Condo/Co-op
+239,"40341 Strawflower Way,Fremont, CA 94538","$1,665,000","JUL 29, 2021",4,3,"1,763","4,476 Sq. Ft.",0,1994,Single Family Residential
+240,"5160 Glacier Park Ct,Fremont, CA 94538","$1,381,239","JUL 29, 2021",4,2,"1,736","7,490 Sq. Ft.",0,1962,Single Family Residential
+241,"38303 Granville Dr,Fremont, CA 94536","$1,245,000","JUL 29, 2021",3,2,"1,320","7,249 Sq. Ft.",$19,1960,Single Family Residential
+242,"31390 San Ardo Ct,Union City, CA 94587","$1,150,000","JUL 29, 2021",4,2,"1,675","6,216 Sq. Ft.",0,1971,Single Family Residential
+243,"1957 Ivy Way,Fremont, CA 94539","$1,330,000","JUL 29, 2021",3,2,"1,278","5,600 Sq. Ft.",0,1962,Single Family Residential
+244,"34809 Begonia St,Union City, CA 94587","$1,230,000","JUL 28, 2021",3,2,"1,382","6,000 Sq. Ft.",0,1969,Single Family Residential
+245,"45298 Tom Blalock St Unit 102 G4,Fremont, CA 94539","$869,995","JUL 28, 2021",2,2,"1,158",0,$517,—,Condo/Co-op
+246,"38627 Cherry Ln #9,Fremont, CA 94536","$720,000","JUL 28, 2021",3,1.5,"1,189",0,$415,1974,Condo/Co-op
+247,"34942 Wharf Ter,Fremont, CA 94555","$1,525,000","JUL 28, 2021",4,2.5,"1,988","4,276 Sq. Ft.",$50,1990,Single Family Residential
+248,"42860 Fontainebleau Park Ln,Fremont, CA 94538","$1,335,000","JUL 27, 2021",3,2,"1,619","5,700 Sq. Ft.",0,1962,Single Family Residential
+249,"45465 Parkmeadow Dr,Fremont, CA 94539","$1,520,000","JUL 27, 2021",3,2,"1,504","9,605 Sq. Ft.",0,1986,Single Family Residential
+250,"640 Wagner St,Fremont, CA 94539","$2,580,000","JUL 27, 2021",4,3,"2,674","6,500 Sq. Ft.",0,1988,Single Family Residential
+251,"136 Paso Olmo Ter,Fremont, CA 94539","$1,288,000","JUL 27, 2021",3,3,"1,556",0,$270,2011,Condo/Co-op
+252,"5646 Pandorea Ter,Newark, CA 94560","$930,000","JUL 26, 2021",3,2,"1,456",0,$300,2017,Condo/Co-op
+253,"3857 Fiano Cmn,FREMONT, CA 94555","$1,468,000","JUL 26, 2021",4,3.5,"1,930","1,813 Sq. Ft.",$144,2016,Single Family Residential
+254,"38537 Vancouver Cmn,FREMONT, CA 94536","$710,000","JUL 24, 2021",2,1,954,"1,341 Sq. Ft.",$310,1978,Townhouse
+255,"232 Hackamore Cmn,FREMONT, CA 94539","$535,000","JUL 23, 2021",1,1,665,0,$430,1984,Condo/Co-op
+256,"237 Staircase Falls Cmn,Fremont, CA 94539","$1,600,000","JUL 23, 2021",3,3.5,"2,029","3,355 Sq. Ft.",$288,—,Single Family Residential
+257,"4139 Peralta Blvd,FREMONT, CA 94536","$950,000","JUL 23, 2021",3,3,"1,436",1.85 Acres,$288,2017,Condo/Co-op
+258,"5507 Ridgewood Dr,Fremont, CA 94555","$1,781,000","JUL 23, 2021",3,2.5,"1,982","4,000 Sq. Ft.",$105,1989,Single Family Residential
+259,"38627 Cherry Ln #1,FREMONT, CA 94536","$635,888","JUL 23, 2021",2,1.5,929,14.90 Acres,$415,1974,Condo/Co-op
+260,"38686 Drexel Ct,Fremont, CA 94536","$2,920,000","JUL 23, 2021",4,5,"3,454",0.39 Acres,$18,1961,Single Family Residential
+261,"4280 Tanager Cmn,FREMONT, CA 94555","$1,088,000","JUL 23, 2021",2,2,"1,405","5,318 Sq. Ft.",$265,1985,Townhouse
+262,"4360 Vincente St,Fremont, CA 94536","$1,275,000","JUL 22, 2021",3,2,"1,484","6,447 Sq. Ft.",0,1965,Single Family Residential
+263,"2600 Sunnycrest Ct,Fremont, CA 94539","$3,500,000","JUL 22, 2021",5,5,"4,550","8,315 Sq. Ft.",0,2020,Single Family Residential
+264,"39224 Guardino Dr #307,Fremont, CA 94538","$560,000","JUL 22, 2021",2,1,857,4.88 Acres,$542,1990,Condo/Co-op
+265,"36616 Bonito Dr,FREMONT, CA 94536","$1,230,000","JUL 20, 2021",3,2,"1,136","6,133 Sq. Ft.",0,1955,Single Family Residential
+266,"568 Monticello Ter,Fremont, CA 94539","$4,772,750","JUL 20, 2021",5,5.5,"6,787",3.34 Acres,0,2015,Single Family Residential
+267,"941 Cherry Glen Cir,Fremont, CA 94536","$935,000","JUL 20, 2021",3,2.5,"1,248",0,$408,1987,Townhouse
+268,"38627 Cherry Ln #36,Fremont, CA 94536","$370,000","JUL 20, 2021",1,1,623,0,$415,1974,Condo/Co-op
+269,"47046 Yucatan Dr,Fremont, CA 94539","$1,720,000","JUL 20, 2021",3,2,"1,892","5,985 Sq. Ft.",0,1975,Single Family Residential
+270,"41530 Devon Ct,FREMONT, CA 94539","$3,300,000","JUL 20, 2021",5,3,"3,118",0.38 Acres,0,1958,Single Family Residential
+271,"39225 Zacate Ave,Fremont, CA 94539","$1,440,000","JUL 19, 2021",4,3,"1,632","6,669 Sq. Ft.",0,1980,Single Family Residential
+272,"4893 Deep Creek Rd,FREMONT, CA 94555","$1,410,000","JUL 19, 2021",3,2,"1,301","4,500 Sq. Ft.",0,1986,Single Family Residential
+273,"38721 Farwell Dr,Fremont, CA 94536","$1,711,000","JUL 19, 2021",4,3,"1,968","7,875 Sq. Ft.",$18,1963,Single Family Residential
+274,"37182 BLACOW Rd,Fremont, CA 94536","$853,000","JUL 19, 2021",2,1,990,"5,429 Sq. Ft.",0,1950,Single Family Residential
+275,"35955 Killorglin,FREMONT, CA 94536","$1,450,000","JUL 16, 2021",4,2.5,"1,824","3,050 Sq. Ft.",$65,1988,Single Family Residential
+276,"40720 Robin St,Fremont, CA 94538","$1,350,000","JUL 16, 2021",3,2,"1,452","7,200 Sq. Ft.",0,1964,Single Family Residential
+277,"2339 Corriea Way,Fremont, CA 94539","$1,420,000","JUL 16, 2021",3,2,"1,647","3,984 Sq. Ft.",$40,1972,Single Family Residential
+278,"4841 Claremont Park Ct,Fremont, CA 94538","$1,400,000","JUL 16, 2021",4,2,"1,581","8,694 Sq. Ft.",0,1963,Single Family Residential
+279,"34183 Aberdeen Ter,Fremont, CA 94555","$910,000","JUL 16, 2021",4,2.5,"1,474","1,027 Sq. Ft.",$325,1970,Townhouse
+280,"340 Paloma Ter,Fremont, CA 94536","$785,000","JUL 16, 2021",2,1,972,"2,112 Sq. Ft.",$325,1973,Townhouse
+281,"34331 Quartz Ter,FREMONT, CA 94555","$1,750,000","JUL 16, 2021",4,2.5,"1,812","4,381 Sq. Ft.",$33,1989,Single Family Residential
+282,"48887 Crestview Cmn Unit CM,FREMONT, CA 94539","$3,500,000","JUL 16, 2021",4,3.5,"4,011",0.48 Acres,$205,1998,Single Family Residential
+283,"4434 Ladner St,FREMONT, CA 94538","$985,000","JUL 16, 2021",3,1,925,"5,300 Sq. Ft.",0,1956,Single Family Residential
+284,"38627 Cherry Ln #86,Fremont, CA 94536","$553,000","JUL 16, 2021",2,1,789,14.90 Acres,$415,1974,Condo/Co-op
+285,"38756 Huntington Cir,Fremont, CA 94536","$680,000","JUL 16, 2021",2,2,840,0,$408,1989,Condo/Co-op
+286,"1171 Vuelta Olivos,FREMONT, CA 94539","$2,336,000","JUL 16, 2021",5,5,"3,443","7,084 Sq. Ft.",0,1964,Single Family Residential
+287,"4975 Tenor Ct,Fremont, CA 94538","$1,600,000","JUL 15, 2021",4,2,"1,748","8,236 Sq. Ft.",0,1962,Single Family Residential
+288,"34332 Portia Ter,FREMONT, CA 94555","$1,355,000","JUL 15, 2021",3,3,"1,755","2,941 Sq. Ft.",$330,1987,Townhouse
+289,"39653 Whitecap Way,Fremont, CA 94538","$1,605,000","JUL 15, 2021",4,3,"1,728","5,974 Sq. Ft.",0,1962,Single Family Residential
+290,"669 Praderia Cir,Fremont, CA 94539","$1,150,000","JUL 15, 2021",2,2,"1,207","3,150 Sq. Ft.",$330,1988,Single Family Residential
+291,"47447 Hoyt St,Fremont, CA 94539","$1,550,000","JUL 15, 2021",3,2,"1,234","6,000 Sq. Ft.",0,1961,Single Family Residential
+292,"3906 Borgo Cmn,FREMONT, CA 94538","$1,050,000","JUL 15, 2021",3,2.5,"1,425",964 Sq. Ft.,$285,2013,Townhouse
+293,"176 Carson Falls Ter,Fremont, CA 94539","$980,000","JUL 15, 2021",2,2.5,"2,035",0,$500,—,Multi-Family (2-4 Unit)
+294,"37280 Spruce Ter,Fremont, CA 94536","$490,000","JUL 14, 2021",2,1,750,0,$348,1986,Condo/Co-op
+295,"4876 Creekwood Dr,Fremont, CA 94555","$1,320,000","JUL 14, 2021",3,2.5,"1,607","2,700 Sq. Ft.",0,1989,Single Family Residential
+296,"330 Sunnyslope Dr,Fremont, CA 94536","$1,285,000","JUL 13, 2021",4,2.5,"1,799","3,875 Sq. Ft.",0,1989,Single Family Residential
+297,"39636 Royal Palm Dr,Fremont, CA 94538","$1,287,053","JUL 13, 2021",4,2,"1,456","5,700 Sq. Ft.",0,1961,Single Family Residential
+298,"472 Wapama Falls Ter,Fremont, CA 94539","$1,137,641","JUL 13, 2021",3,3.5,"2,033",0,$500,—,Condo/Co-op
+299,"3683 Colet Ter,Fremont, CA 94536","$805,000","JUL 13, 2021",3,1.5,"1,168",860 Sq. Ft.,$295,1974,Townhouse
+300,"4102 Alder Ter,FREMONT, CA 94536","$985,000","JUL 13, 2021",2,2.5,"1,390",1 Sq. Ft.,$349,—,Townhouse
+301,"40285 Cottage Rose Ter,Fremont, CA 94538","$980,000","JUL 12, 2021",3,3,"1,310",0,$265,2009,Townhouse
+302,"38871 Riverbank Ter,Fremont, CA 94536","$1,350,000","JUL 12, 2021",4,3,"1,563","3,500 Sq. Ft.",$88,1987,Single Family Residential
+303,"37062 Penzance Cmn,Fremont, CA 94536","$716,625","JUL 12, 2021",2,2,"1,140",0,$377,1987,Condo/Co-op
+304,"2068 Gomes Rd,FREMONT, CA 94539","$1,415,000","JUL 12, 2021",2,2,"1,248","3,230 Sq. Ft.",0,1969,Single Family Residential
+305,"5461 Borgia Rd,Fremont, CA 94538","$1,450,000","JUL 9, 2021",4,2,"1,930","5,400 Sq. Ft.",0,1961,Single Family Residential
+306,"3443 Pepperwood Ter #203,Fremont, CA 94536","$600,000","JUL 9, 2021",2,2,990,0,$548,1986,Condo/Co-op
+307,"3869 Wildflower Cmn,Fremont, CA 94538","$730,000","JUL 9, 2021",3,1.5,"1,300",0,$410,1987,Condo/Co-op
+308,"4120 Converse St,FREMONT, CA 94538","$1,352,000","JUL 9, 2021",4,2,"1,567","5,225 Sq. Ft.",0,1955,Single Family Residential
+309,"40439 Blanchard St,Fremont, CA 94538","$873,000","JUL 9, 2021",3,1,950,"5,000 Sq. Ft.",0,1954,Single Family Residential
+310,"45961 Hidden Valley Ter,Fremont, CA 94539","$4,700,000","JUL 9, 2021",5,6,"5,717",1.61 Acres,$167,—,Single Family Residential
+311,"850 Wooded Hills Ct,Fremont, CA 94539","$3,211,111","JUL 9, 2021",4,4.5,"4,233",0.46 Acres,0,1996,Single Family Residential
+312,"38623 Cherry Ln #157,FREMONT, CA 94536","$540,000","JUL 8, 2021",2,1,789,0,$415,1974,Condo/Co-op
+313,"242 Hackamore Cmn,Fremont, CA 94539","$585,000","JUL 8, 2021",2,1,878,0,$410,1984,Condo/Co-op
+314,"38740 Tyson Ln Unit 111B,FREMONT, CA 94536","$755,000","JUL 8, 2021",2,2,"1,178",0,$510,2000,Condo/Co-op
+315,"4781 Northdale Dr,Fremont, CA 94536","$1,875,000","JUL 8, 2021",3,2.5,"2,310","9,529 Sq. Ft.",$18,1955,Single Family Residential
+316,"3992 Harlequin Ter,Fremont, CA 94555","$1,530,000","JUL 7, 2021",4,2.5,"1,855","5,537 Sq. Ft.",$260,1991,Single Family Residential
+317,"4072 Fairwood St,Fremont, CA 94538","$1,265,000","JUL 7, 2021",4,2,"1,448","6,144 Sq. Ft.",0,1959,Single Family Residential
+318,"43457 Jerome Ave,Fremont, CA 94539","$1,320,000","JUL 7, 2021",3,1,951,"5,300 Sq. Ft.",0,1953,Single Family Residential
+319,"48991 Woodgrove Cmn,FREMONT, CA 94539","$1,280,000","JUL 7, 2021",3,2.5,"1,400","7,072 Sq. Ft.",$262,2004,Condo/Co-op
+320,"4802 Kathryn Ct,Fremont, CA 94536","$1,525,000","JUL 7, 2021",3,3,"1,868","7,474 Sq. Ft.",0,1960,Single Family Residential
+321,"37440 Talamore Cmn,FREMONT, CA 94536","$1,800,000","JUL 7, 2021",4,3.5,"2,869","3,566 Sq. Ft.",$149,2016,Single Family Residential
+322,"5679 Daylily St,Newark, CA 94560","$935,000","JUL 7, 2021",3,3,"1,503",0,$300,2017,Condo/Co-op
+323,"42758 Charleston Way,FREMONT, CA 94538","$1,220,000","JUL 6, 2021",3,2,"1,151","5,300 Sq. Ft.",0,1958,Single Family Residential
+324,"162 Branta Cmn,FREMONT, CA 94539","$1,100,000","JUL 6, 2021",3,3.5,"1,792",0,$276,2016,Condo/Co-op
+325,"275 Mortimer Ave,Fremont, CA 94536","$1,460,671","JUL 22, 2021",4,2,"1,409","5,564 Sq. Ft.",0,1977,Single Family Residential
+326,"38627 Cherry Ln #20,Fremont, CA 94536","$557,969","AUG 5, 2021",2,2,789,0,0,1974,Condo/Co-op
+327,"42952 Via Valparaiso,Fremont, CA 94539","$1,004,791","JUL 6, 2021",3,3,"1,242",800 Sq. Ft.,0,1971,Townhouse
+328,"566 Bella Vista Ct,Fremont, CA 94539","$2,534,571","SEP 1, 2021",3,3,"2,746",0,0,1981,Single Family Residential
+329,"45199 S Grimmer Blvd,Fremont, CA 94539","$1,648,634","JUL 21, 2021",0,0,"1,585","6,196 Sq. Ft.",0,1977,Single Family Residential
+330,"41131 Denise St,Fremont, CA 94539","$1,596,589","AUG 26, 2021",3,2,"1,148","6,300 Sq. Ft.",0,1957,Single Family Residential
+331,"34661 Tabu Ter #62,Fremont, CA 94555","$775,214","JUL 30, 2021",2,2,934,0,0,1987,Condo/Co-op
+332,"43670 Osgood Rd,Fremont, CA 94539","$1,901,790","JUL 7, 2021",3,1,"1,680",0.64 Acres,0,1930,Single Family Residential
+333,"41173 Ellen St,Fremont, CA 94538","$1,305,649","AUG 3, 2021",3,2,"1,318",0,0,1960,Single Family Residential
+334,"35030 Mt Palomar Ct,Fremont, CA 94536","$1,718,242","SEP 8, 2021",3,2.5,"2,166",0,0,1999,Single Family Residential
+335,"111 Poppy Ct,Fremont, CA 94538","$1,265,081","AUG 24, 2021",3,2,"1,232","6,784 Sq. Ft.",0,1961,Single Family Residential
+336,"35620 Meyer Ct,Fremont, CA 94536","$2,061,523","JUL 26, 2021",4,3,"2,173","8,750 Sq. Ft.",0,1986,Single Family Residential
+337,"38623 Cherry Ln #166,Fremont, CA 94536","$641,438","JUL 9, 2021",3,2,"1,199",0,0,1974,Condo/Co-op
+338,"43947 Boston Ct,Fremont, CA 94539","$2,798,592","SEP 3, 2021",4,3,"2,642","8,753 Sq. Ft.",0,1991,Single Family Residential
+339,"780 Little Foot Dr,Fremont, CA 94539","$2,254,878","JUL 9, 2021",4,3,"2,235","7,579 Sq. Ft.",0,1977,Single Family Residential
+340,"4238 Margery Dr,Fremont, CA 94538","$1,130,924","AUG 4, 2021",3,2,"1,107","6,000 Sq. Ft.",0,1959,Single Family Residential
+341,"4991 Conway Ter #53,Fremont, CA 94555","$1,144,571","SEP 7, 2021",3,3,"1,309",0,0,1988,Condo/Co-op
+342,"48535 Spokane Rd,Fremont, CA 94539","$1,910,336","JUL 19, 2021",4,2,"2,122",0,0,1977,Single Family Residential
+343,"103 Boston Fern Cmn Unit U247,Fremont, CA 94539","$975,465","AUG 12, 2021",2,2,"1,382",0,0,2008,Condo/Co-op
+344,"2881 Predio Ter,Fremont, CA 94539","$1,367,620","JUL 19, 2021",4,4,"2,108",0,0,2015,Condo/Co-op
+345,"WARM SPRINGS BLVD,FREMONT, CA 94538","$1,063,074","AUG 24, 2021",2,2,"1,265",0,0,2019,Condo/Co-op
+346,"WARM SPRINGS BLVD,FREMONT, CA 94538","$910,384","AUG 20, 2021",2,2,"1,265",0,0,2020,Condo/Co-op
+347,"MOWRY AVE,FREMONT, CA 94538","$1,498,537","AUG 2, 2021",0,0,0,"4,519 Sq. Ft.",0,—,Single Family Residential
+348,"MOWRY AVE,FREMONT, CA 94538","$1,510,364","JUL 30, 2021",0,0,0,"5,210 Sq. Ft.",0,—,Single Family Residential
+349,"WARM SPRINGS BLVD,FREMONT, CA 94538","$2,401,874","AUG 13, 2021",0,0,0,0,0,—,Single Family Residential
+350,"WARM SPRINGS BLVD,FREMONT, CA 94538","$2,538,257","AUG 13, 2021",0,0,0,0,0,—,Single Family Residential
